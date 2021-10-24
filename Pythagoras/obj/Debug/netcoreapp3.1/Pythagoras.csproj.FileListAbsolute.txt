@@ -1,0 +1,13 @@
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.exe
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.deps.json
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.runtimeconfig.json
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.runtimeconfig.dev.json
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.dll
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\bin\Debug\netcoreapp3.1\Pythagoras.pdb
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.csprojAssemblyReference.cache
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.AssemblyInfoInputs.cache
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.AssemblyInfo.cs
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.csproj.CoreCompileInputs.cache
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.dll
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.pdb
+D:\Srinivas\Tech\Algorithms\Pythagoras\Pythagoras\Pythagoras\obj\Debug\netcoreapp3.1\Pythagoras.genruntimeconfig.cache

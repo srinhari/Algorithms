@@ -1,0 +1,6 @@
+.vs
+Pythagoras/obj/**
+Pythagoras/bin/**
+PythagorasTest/bin/**
+PythagorasTest/obj/**
+PythagorasTest/PythagorasTest.csproj.user
